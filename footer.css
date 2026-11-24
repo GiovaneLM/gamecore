@@ -1,0 +1,29 @@
+.gamer-footer{
+background-color: #f569;
+font-size: 15px;
+font-style: normal;
+text-align: center;
+padding: 24px 16px;
+margin-top: 40px;
+border-top: 2px solid;
+}
+.footer-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center; 
+  padding: 24px 16px;
+  margin-top: 40px; 
+  border-top: 2px solid;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.footer-col {
+  color: #2b1055;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 8px;
+}
+
+.footer-col2 {
+  text-decoration: underline;
+}
